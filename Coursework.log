@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.17)  10 FEB 2013 18:30
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.17)  10 FEB 2013 20:15
 entering extended mode
 **Coursework.tex
 (C:\Users\X220\Skydrive\Documents\BusinessStrategy\Coursework.tex
@@ -59,11 +59,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {D:/latex/pdftex/config/pdftex.map}] [2]
-(C:\Users\X220\Skydrive\Documents\BusinessStrategy\Coursework.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(C:\Users\X220\Skydrive\Documents\BusinessStrategy\Coursework.aux) ) 
 Here is how much of TeX's memory you used:
  320 strings out of 494045
  3793 string characters out of 3158579
@@ -71,12 +67,13 @@ Here is how much of TeX's memory you used:
  3680 multiletter control sequences out of 15000+200000
  8063 words of font info for 29 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 23i,6n,19p,523b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/latex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/latex/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-D:/latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/latex/fonts/type1/public/
-amsfonts/cm/cmr17.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Coursework.pdf (2 pages, 87190 bytes).
+ 23i,6n,19p,602b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/latex/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb><D:/latex/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/latex/font
+s/type1/public/amsfonts/cm/cmr12.pfb><D:/latex/fonts/type1/public/amsfonts/cm/c
+mr17.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Coursework.pdf (2 pages, 87956 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
